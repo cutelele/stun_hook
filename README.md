@@ -1,2 +1,2 @@
 # stun_hook
-利用cf的worker接收luacy的webhook,达到内网穿透的目的
+利用cf的worker接收lucky的webhook,达到内网穿透的目的
